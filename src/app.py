@@ -23,7 +23,7 @@ HTML = """
   </style>
 </head>
 <body>
-  <h1>Iris spam-free deploy (demo)</h1>
+  <h1>Iris deploy (demo)</h1>
   <div class="card">
     <p>Ingresa medidas (cm): <small>sepal length, sepal width, petal length, petal width</small></p>
     <form method="POST">
