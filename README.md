@@ -1,5 +1,5 @@
 ## Demo (Render)
-https://deploy-flask-app-ey82.onrender.com/
+https://streamlit-ml-app-sr76.onrender.com/
 
 
 ## Structure
